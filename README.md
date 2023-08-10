@@ -28,6 +28,9 @@ Total energies using vqe and exact solver w/percent error
 
 <img width="600" alt="Screenshot 2023-08-10 at 2 38 29 PM" src="https://github.com/jaszmine/vqeH2/assets/52623824/cb09015b-2b02-42d7-a893-585aa230e010">
 
+<br>
+<br>
+
 <img width="600" alt="Screenshot 2023-08-10 at 2 38 41 PM" src="https://github.com/jaszmine/vqeH2/assets/52623824/fc86382c-dff3-40c5-9012-97a85231bad3">
 
 
