@@ -18,7 +18,6 @@ Tunable Circuit
 
 <br>
 <br>
-<br>
 
 Total energies using vqe and exact solver w/percent error
 
